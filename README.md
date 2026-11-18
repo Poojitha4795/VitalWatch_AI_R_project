@@ -1,4 +1,3 @@
-# VitalWatch_AI_R_project
 # VitaTrend-Anomaly-Engine
 
 ### Trend-Aware Multivariate Anomaly Detection for Patient Vital-Sign Monitoring with Reduced False Alerts
@@ -217,8 +216,7 @@ shiny::runApp()
 
 **Deployment Platform:** shinyapps.io
 
-**Dashboard URL:** Add your published application URL here after successful deployment.
-
+**Dashboard URL:** <https://vitalwatchai.shinyapps.io/vitalwatch-ai/>
 ## 🔮 Future Enhancements
 
 - Improve false-alert reduction using advanced temporal methods.
