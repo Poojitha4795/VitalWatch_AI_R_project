@@ -4,7 +4,7 @@ library(ggplot2)
 library(dplyr)
 
 # Load project data
-results <- readRDS("vital_anomaly_results.rds")
+results <- readRDS("vital_anomaly_results_small.rds")
 patient_performance <- read.csv("patient_wise_performance.csv")
 performance <- read.csv("model_performance_comparison.csv")
 
