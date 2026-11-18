@@ -216,7 +216,11 @@ shiny::runApp()
 
 **Deployment Platform:** shinyapps.io
 
-**Dashboard URL:** <https://vitalwatchai.shinyapps.io/vitalwatch-ai/>
+## Live Dashboard
+
+Access the deployed VitalWatch AI application here:
+
+[**Launch VitalWatch AI Dashboard**](https://vitalwatchai.shinyapps.io/vitalwatch-ai/)
 ## 🔮 Future Enhancements
 
 - Improve false-alert reduction using advanced temporal methods.
